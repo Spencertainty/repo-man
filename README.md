@@ -1,4 +1,4 @@
-# repo-man
+# GitMotivated
 committing my second repository, sorta
 
 **Something Bold**
